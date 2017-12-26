@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>steem stock photo
+</title>
+<style>
+textarea{width:50%;
+         height:150px;
+		 padding:12px 20px;
+		 box-sizing:border-box;
+		 border:2px;solid#ccc;
+		 border-radius:4px;
+		 background-color:grey;}
+textarea:focus{border:3px solid#555;
+                       background-color:yellow;}
+</style>
+<a href="top"></a>
+</head>
+<body>
+<p align="center">
+<marquee>
+<i>
+<font size="25" face="algerian" color="yellow">
+<s>STEEM STOCK PHOTOS
+</font>
+</i>
+</marquee>
+<hr>
+</p>
+<a href="arts.html"><img src ="stem/market.jpg" alt ="market center" style = "width:250px; height:250px;">ARTS</img></a><br>
+<a href="education.html"><img src ="stem/beach.jpg" alt ="beach" style = "width:250px; height:250px;">EDUCATION</img></a><br>
+<a href="nature.html"><img src ="stem/landscape.jpg" alt ="landscape" style = "width:250px; height:250px;">NATURE</img></a><br>
+<a href="construction.html"><img src ="stem/abuja.jpg" alt ="construction" style = "width:250px; height:250px;">CONSTRUCTION</img></a><br>
+<a href="love.html"><img src ="stem/romantic.jpg" alt ="romantic" style = "width:250px; height:250px;">ROMANTIC</img></a><br>
+<a href="animal.html"><img src ="stem/koala.jpg" alt ="animal" style = "width:250px; height:250px;">ANIMAL</img></a><br>
+<a href="africa.html"><img src ="stem/africa.jpg" alt ="map" style = "width:250px; height:250px;">MAP</img></a><br>
+<a href="cities.html"><img src ="stem/capetown.jpg" alt ="africa city" style = "width:250px; height:250px;">AFRICAN CITIES</img></a><br>
+<HR color ="yellow">
+
+<h1  align ="center" >
+<a href="arts.html">ART WORKS</a><br><br>
+
+<a href="education.html">EDUCATIONS</a><br><br>
+
+<a href="nature.html">NATURE</a><br><br>
+
+<a href="construction.html">CONSTRUCTION</a><br><br>
+
+<a href="love.html">LOVE</a><br><br>
+
+<a href="animal.html">ANIMAL</a><br><br>
+
+<a href="africa.html">AFRICA MAP</a><br><br>
+
+<a href="cities.html">CITIES</a><br><br>
+
+ <div id="searchIconAndTextContainer">
+        <div id="searchIcon"/>
+<input xmlns="http://www.w3.org/1999/xhtml" name="q" value="" id="searchText" maxlength="256" aria-label="Search query" autocomplete="off" aria-autocomplete="true" aria-controls="searchSuggestionTable" aria-expanded="false" placeholder="Search" type="text" />
+<input id="searchSubmit" type="button" onclick="onSearchSubmit(event)"
+               title="&contentSearchSubmit.tooltip;"/>
+			         </div>
+
+<textarea>write your comment</textarea><br>					 
+					 ABOUT US<br>
+The steem stock photo  site is aimed at having a stock collection of thousands of natural pictures.<br> This is powered by <a href= "http://www.steemit.com/" title="search the web with goggle"><i>STEEMIT</i></a>in conjuction with<a href= "http://www.github.com/" title="search the web with goggle"><i>GITHUB</i></a>
+
+<a href="#top">Back to top</a>
+</body>
+</html>
